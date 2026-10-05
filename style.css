@@ -1449,3 +1449,5 @@ body {
 .epg-prog.focus { background: rgba(255,255,255,0.2); border-color: #fff; }
 .epg-prog em { color: #ff2d2d; font-style: normal; font-weight: 700; }
 .epg-empty { color: rgba(255,255,255,0.7); padding: 20px 10px; font-size: 1.1rem; }
+
+.ch-heart { flex: none; margin: 0 14px 0 10px; font-size: 2rem; color: #ff4d6d; text-shadow: 0 0 10px rgba(255,77,109,0.6); }
